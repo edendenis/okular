@@ -69,7 +69,7 @@ Para configurar/instalar/usar o `okular` no `Linux Ubuntu` sem precisar digitar 
 
 ## Referências
 
-[1] OPENAI. ***Editar PDF no Ubuntu.*** Disponível em: <https://chat.openai.com/c/a34dde21-da52-4dd3-853c-13861272bf34> (texto adaptado). Acessado em: 20/03/2023 17:11.
+[1] OPENAI. ***Editar pdf no ubuntu.*** Disponível em: <https://chat.openai.com/c/a34dde21-da52-4dd3-853c-13861272bf34> (texto adaptado). Acessado em: 20/03/2023 17:11.
 
 [2] OPENAI. ***Vs code: editor popular.*** Disponível em: <https://chat.openai.com/c/b640a25d-f8e3-4922-8a3b-ed74a2657e42> (texto adaptado). Acessado em: 20/03/2024 17:10.
 
