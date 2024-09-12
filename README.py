@@ -41,7 +41,7 @@
 #     2.7 Para ver a lista de pacotes a serem atualizados, digite o seguinte comando e pressione `Enter`:  `sudo apt list --upgradable`
 # 
 #     2.8 Realmente atualizar os pacotes instalados para as suas versões mais recentes, com base na última vez que você executou `sudo apt update`. Digite o seguinte comando e pressione `Enter`: `sudo apt full-upgrade -y`
-#     
+# 
 
 # Para instalar o `okular` no `Linux Ubuntu` através do `Terminal Emulator`, você pode seguir os seguintes passos:
 # 
@@ -58,7 +58,7 @@
 # 2. Digite o seguinte comando e pressione `Enter`:
 # 
 #     ```
-#     sudo apt clean                                                            ─╯
+#     sudo apt clean
 #     sudo apt autoclean
 #     sudo apt autoremove -y
 #     sudo apt update
